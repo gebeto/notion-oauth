@@ -4,7 +4,7 @@ module.exports = async (req, res) => {
   const redirectUrl =
     process.env.NODE_ENV === "development"
       ? `http://${process.env.VERCEL_URL}/api/notion`
-      : `https://notion-ouath.vercel.app/api/notion`;
+      : `https://notion-oauth.vercel.app/api/notion`;
   const notionId = process.env.NOTION_APP_ID;
   const notionSecret = process.env.NOTION_APP_SECRET;
 
