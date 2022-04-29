@@ -1,0 +1,11 @@
+{
+  "name": "notion-ouath",
+  "version": "1.0.0",
+  "repository": "https://github.com/gebeto/notion-ouath",
+  "author": "gebeto <slavik.nychkalo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/fetch": "^6.2.0",
+    "node-fetch": "2"
+  }
+}
