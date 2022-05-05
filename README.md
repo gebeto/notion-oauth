@@ -1,5 +1,5 @@
 # notion-oauth
-Notion OAuth for vercel
+Notion OAuth for Vercel and Self Hosted
 
 
 ## Deploy Vercel
